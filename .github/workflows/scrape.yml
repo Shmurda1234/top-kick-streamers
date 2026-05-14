@@ -29,8 +29,9 @@ jobs:
           playwright install chromium
           playwright install-deps chromium
 
-      - name: Run scraper
-        run: python scraper/scrape.py
+      - name: Run scraper (don't fail workflow on validation error)
+        run: python scraper/scrape.py || echo "Scraper failed but continuing to commit debug files"
+        continue-on-error: true
 
       - name: Commit and push if data changed
         run: |
