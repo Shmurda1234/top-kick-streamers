@@ -1,0 +1,45 @@
+name: scrape-kick-streamers
+
+on:
+  schedule:
+    # Daily at 08:00 UTC (1 hour after twitch-streamers scrape at 07:00)
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: |
+          cd scraper
+          pip install -r requirements.txt
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Run scraper
+        run: python scraper/scrape.py
+
+      - name: Commit and push if data changed
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "scrape-bot"
+          git add data/top-kick-streamers.json data/last-debug.html || true
+          if ! git diff --staged --quiet; then
+            git commit -m "data: refresh top kick streamers $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "No changes to commit."
+          fi
