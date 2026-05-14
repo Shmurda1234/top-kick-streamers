@@ -33,13 +33,15 @@ jobs:
         run: python scraper/scrape.py || echo "Scraper failed but continuing to commit debug files"
         continue-on-error: true
 
-      - name: Commit and push if data changed
+     - name: Commit and push debug files even on failure
+        if: always()
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "scrape-bot"
-          git add data/top-kick-streamers.json data/last-debug.html || true
+          mkdir -p data
+          git add data/ || true
           if ! git diff --staged --quiet; then
-            git commit -m "data: refresh top kick streamers $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "data: scrape attempt $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           else
             echo "No changes to commit."
