@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-24T10:40:07.347479+00:00",
+  "scraped_at": "2026-06-25T10:33:23.470972+00:00",
   "source": "streamscharts.com",
   "channels": [
     {
@@ -16,7 +16,7 @@
       "followers": 3971302,
       "peak_viewers": 4001560,
       "peak_viewers_date": "Oct 19, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 2,
@@ -27,9 +27,9 @@
       "country": "USA",
       "country_code": "US",
       "language": "EN",
-      "primary_game": "Just Chatting",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 2101255,
+      "primary_game": "Slots &amp; Casino",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/slots--casino",
+      "followers": 2101485,
       "peak_viewers": 583694,
       "peak_viewers_date": "Aug 05, 2024",
       "latest_stream": "1 day ago"
@@ -45,7 +45,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1866461,
+      "followers": 1870914,
       "peak_viewers": 334548,
       "peak_viewers_date": "May 31, 2026",
       "latest_stream": "Today"
@@ -61,7 +61,7 @@
       "language": "ES",
       "primary_game": "IRL",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 1701616,
+      "followers": 1701738,
       "peak_viewers": 237707,
       "peak_viewers_date": "Jul 03, 2025",
       "latest_stream": "1 day ago"
@@ -80,7 +80,7 @@
       "followers": 1692943,
       "peak_viewers": 690753,
       "peak_viewers_date": "Jun 02, 2024",
-      "latest_stream": "4 days ago"
+      "latest_stream": "5 days ago"
     },
     {
       "rank": 6,
@@ -93,7 +93,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1638560,
+      "followers": 1642290,
       "peak_viewers": 180889,
       "peak_viewers_date": "Feb 26, 2025",
       "latest_stream": "Today"
@@ -109,10 +109,10 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1528093,
+      "followers": 1532209,
       "peak_viewers": 248609,
       "peak_viewers_date": "Oct 18, 2024",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 8,
@@ -155,9 +155,9 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Just Chatting",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1285081,
+      "primary_game": "Minecraft",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/minecraft",
+      "followers": 1285349,
       "peak_viewers": 1359663,
       "peak_viewers_date": "Aug 03, 2025",
       "latest_stream": "1 day ago"
@@ -173,7 +173,7 @@
       "language": "AR",
       "primary_game": "PUBG Mobile",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/pubg-mobile",
-      "followers": 1124042,
+      "followers": 1124237,
       "peak_viewers": 64708,
       "peak_viewers_date": "Dec 24, 2024",
       "latest_stream": "1 day ago"
@@ -205,7 +205,7 @@
       "language": "EN",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1082897,
+      "followers": 1083298,
       "peak_viewers": 169794,
       "peak_viewers_date": "Oct 30, 2025",
       "latest_stream": "Today"
@@ -224,7 +224,7 @@
       "followers": 947786,
       "peak_viewers": 241646,
       "peak_viewers_date": "Jan 11, 2025",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 15,
@@ -237,7 +237,7 @@
       "language": "ES",
       "primary_game": "Grand Theft Auto V (GTA)",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
-      "followers": 936648,
+      "followers": 937372,
       "peak_viewers": 149766,
       "peak_viewers_date": "Sep 08, 2025",
       "latest_stream": "Today"
@@ -253,10 +253,10 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 920821,
+      "followers": 923151,
       "peak_viewers": 86485,
       "peak_viewers_date": "Nov 17, 2024",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 17,
@@ -269,10 +269,10 @@
       "language": "RU",
       "primary_game": "Slots &amp; Casino",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/slots--casino",
-      "followers": 919241,
+      "followers": 919363,
       "peak_viewers": 720592,
       "peak_viewers_date": "Mar 20, 2024",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 18,
@@ -288,7 +288,7 @@
       "followers": 904612,
       "peak_viewers": 110444,
       "peak_viewers_date": "Jul 21, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 19,
@@ -299,28 +299,28 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "Chat Roulette",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/chat-roulette",
-      "followers": 879207,
+      "primary_game": "Just Chatting",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
+      "followers": 879333,
       "peak_viewers": 601000,
       "peak_viewers_date": "Jan 10, 2025",
       "latest_stream": "Today"
     },
     {
       "rank": 20,
-      "name": "abodby",
-      "slug": "abodby",
-      "url": "https://kick.com/abodby",
-      "avatar": "https://files.kick.com/images/user/16567613/profile_image/conversion/c8e451f3-2545-46c6-9489-3b619d5431c8-thumb.webp",
+      "name": "absi",
+      "slug": "absi",
+      "url": "https://kick.com/absi",
+      "avatar": "https://files.kick.com/images/user/27894320/profile_image/conversion/951102c4-68da-415c-a344-d6dbaec3fb05-thumb.webp",
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "Garena Free Fire",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/garena-free-fire",
-      "followers": 806035,
-      "peak_viewers": 27651,
-      "peak_viewers_date": "Sep 17, 2025",
-      "latest_stream": "1 day ago"
+      "primary_game": "Counter-Strike 2",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/counter-strike-2",
+      "followers": 806053,
+      "peak_viewers": 108104,
+      "peak_viewers_date": "Jun 20, 2025",
+      "latest_stream": "Today"
     }
   ]
 }
