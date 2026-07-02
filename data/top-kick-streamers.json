@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-01T11:17:01.740732+00:00",
+  "scraped_at": "2026-07-02T10:28:08.394411+00:00",
   "source": "streamscharts.com",
   "channels": [
     {
@@ -16,7 +16,7 @@
       "followers": 3983089,
       "peak_viewers": 4001560,
       "peak_viewers_date": "Oct 19, 2025",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 2,
@@ -32,7 +32,7 @@
       "followers": 2108670,
       "peak_viewers": 583694,
       "peak_viewers_date": "Aug 05, 2024",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 3,
@@ -45,7 +45,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1904296,
+      "followers": 1908241,
       "peak_viewers": 334548,
       "peak_viewers_date": "May 31, 2026",
       "latest_stream": "Today"
@@ -64,10 +64,26 @@
       "followers": 1702091,
       "peak_viewers": 237707,
       "peak_viewers_date": "Jul 03, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 5,
+      "name": "lacobraaa",
+      "slug": "lacobraaa",
+      "url": "https://kick.com/lacobraaa",
+      "avatar": "https://files.kick.com/images/user/31424479/profile_image/conversion/9e6489f8-4629-4aa3-8034-d8cb428a6516-thumb.webp",
+      "country": null,
+      "country_code": null,
+      "language": "ES",
+      "primary_game": "Just Chatting",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
+      "followers": 1693327,
+      "peak_viewers": 180889,
+      "peak_viewers_date": "Feb 26, 2025",
+      "latest_stream": "Today"
+    },
+    {
+      "rank": 6,
       "name": "sxb",
       "slug": "sxb",
       "url": "https://kick.com/sxb",
@@ -83,22 +99,6 @@
       "latest_stream": "19 Jun, 26"
     },
     {
-      "rank": 6,
-      "name": "lacobraaa",
-      "slug": "lacobraaa",
-      "url": "https://kick.com/lacobraaa",
-      "avatar": "https://files.kick.com/images/user/31424479/profile_image/conversion/9e6489f8-4629-4aa3-8034-d8cb428a6516-thumb.webp",
-      "country": null,
-      "country_code": null,
-      "language": "ES",
-      "primary_game": "Just Chatting",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1688336,
-      "peak_viewers": 180889,
-      "peak_viewers_date": "Feb 26, 2025",
-      "latest_stream": "Today"
-    },
-    {
       "rank": 7,
       "name": "spreen",
       "slug": "spreen",
@@ -109,10 +109,10 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1557417,
+      "followers": 1561132,
       "peak_viewers": 248609,
       "peak_viewers_date": "Oct 18, 2024",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 8,
@@ -123,12 +123,12 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "IRL",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 1459209,
+      "primary_game": "Just Chatting",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
+      "followers": 1467805,
       "peak_viewers": 326305,
       "peak_viewers_date": "Nov 14, 2025",
-      "latest_stream": "11 Jun, 26"
+      "latest_stream": "Today"
     },
     {
       "rank": 9,
@@ -139,12 +139,12 @@
       "country": null,
       "country_code": null,
       "language": "TR",
-      "primary_game": "Fall Guys",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/fall-guys",
-      "followers": 1359105,
+      "primary_game": "Tales Beyond the Tomb: No Witnesses",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/tales-beyond-the-tomb-no-witnesses",
+      "followers": 1362883,
       "peak_viewers": 153588,
       "peak_viewers_date": "Jul 30, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 10,
@@ -160,7 +160,7 @@
       "followers": 1294961,
       "peak_viewers": 1359663,
       "peak_viewers_date": "Aug 03, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 11,
@@ -173,7 +173,7 @@
       "language": "AR",
       "primary_game": "EA Sports FC 26",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/ea-sports-fc-26",
-      "followers": 1127198,
+      "followers": 1127685,
       "peak_viewers": 64708,
       "peak_viewers_date": "Dec 24, 2024",
       "latest_stream": "1 day ago"
@@ -205,10 +205,10 @@
       "language": "EN",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1085236,
+      "followers": 1085594,
       "peak_viewers": 169794,
       "peak_viewers_date": "Oct 30, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 14,
@@ -224,7 +224,7 @@
       "followers": 947809,
       "peak_viewers": 241646,
       "peak_viewers_date": "Jan 11, 2025",
-      "latest_stream": "2 days ago"
+      "latest_stream": "3 days ago"
     },
     {
       "rank": 15,
@@ -235,9 +235,9 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Grand Theft Auto V (GTA)",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
-      "followers": 942854,
+      "primary_game": "Bodycam",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/bodycam",
+      "followers": 943349,
       "peak_viewers": 149766,
       "peak_viewers_date": "Sep 08, 2025",
       "latest_stream": "Today"
@@ -251,12 +251,12 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Escape the Backrooms",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/escape-the-backrooms",
-      "followers": 926787,
+      "primary_game": "Just Chatting",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
+      "followers": 928672,
       "peak_viewers": 86485,
       "peak_viewers_date": "Nov 17, 2024",
-      "latest_stream": "2 days ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 17,
@@ -269,10 +269,10 @@
       "language": "RU",
       "primary_game": "Slots &amp; Casino",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/slots--casino",
-      "followers": 921386,
+      "followers": 921664,
       "peak_viewers": 720592,
       "peak_viewers_date": "Mar 20, 2024",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 18,
@@ -299,9 +299,9 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "Just Chatting",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 880399,
+      "primary_game": "Grand Theft Auto V (GTA)",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
+      "followers": 880587,
       "peak_viewers": 601000,
       "peak_viewers_date": "Jan 10, 2025",
       "latest_stream": "1 day ago"
@@ -317,7 +317,7 @@
       "language": "AR",
       "primary_game": "Counter-Strike 2",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/counter-strike-2",
-      "followers": 810593,
+      "followers": 810950,
       "peak_viewers": 108104,
       "peak_viewers_date": "Jun 20, 2025",
       "latest_stream": "Today"
