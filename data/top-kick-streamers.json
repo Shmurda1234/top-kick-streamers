@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-06T11:54:40.804468+00:00",
+  "scraped_at": "2026-07-07T10:45:03.311741+00:00",
   "source": "streamscharts.com",
   "channels": [
     {
@@ -11,9 +11,9 @@
       "country": "Colombia",
       "country_code": "CO",
       "language": "ES",
-      "primary_game": "Call of Duty: Warzone",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/call-of-duty-warzone",
-      "followers": 3987288,
+      "primary_game": "Meccha Chameleon",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/meccha-chameleon",
+      "followers": 3988545,
       "peak_viewers": 4001560,
       "peak_viewers_date": "Oct 19, 2025",
       "latest_stream": "Today"
@@ -29,7 +29,7 @@
       "language": "EN",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 2114455,
+      "followers": 2114737,
       "peak_viewers": 583694,
       "peak_viewers_date": "Aug 05, 2024",
       "latest_stream": "1 day ago"
@@ -45,7 +45,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1925669,
+      "followers": 1936210,
       "peak_viewers": 334548,
       "peak_viewers_date": "May 31, 2026",
       "latest_stream": "Today"
@@ -61,7 +61,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1731191,
+      "followers": 1735534,
       "peak_viewers": 180889,
       "peak_viewers_date": "Feb 26, 2025",
       "latest_stream": "Today"
@@ -77,10 +77,10 @@
       "language": "ES",
       "primary_game": "IRL",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 1702283,
+      "followers": 1702416,
       "peak_viewers": 237707,
       "peak_viewers_date": "Jul 03, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 6,
@@ -128,7 +128,7 @@
       "followers": 1475351,
       "peak_viewers": 326305,
       "peak_viewers_date": "Nov 14, 2025",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 9,
@@ -139,12 +139,12 @@
       "country": null,
       "country_code": null,
       "language": "TR",
-      "primary_game": "Tales Beyond the Tomb: No Witnesses",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/tales-beyond-the-tomb-no-witnesses",
-      "followers": 1362883,
+      "primary_game": "Infinite Craft",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/infinite-craft",
+      "followers": 1373106,
       "peak_viewers": 153588,
       "peak_viewers_date": "Jul 30, 2025",
-      "latest_stream": "3 days ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 10,
@@ -160,7 +160,7 @@
       "followers": 1307550,
       "peak_viewers": 1359663,
       "peak_viewers_date": "Aug 03, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 11,
@@ -173,7 +173,7 @@
       "language": "AR",
       "primary_game": "PUBG Mobile",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/pubg-mobile",
-      "followers": 1130644,
+      "followers": 1131164,
       "peak_viewers": 64708,
       "peak_viewers_date": "Dec 24, 2024",
       "latest_stream": "1 day ago"
@@ -205,7 +205,7 @@
       "language": "EN",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1086602,
+      "followers": 1086903,
       "peak_viewers": 169794,
       "peak_viewers_date": "Oct 30, 2025",
       "latest_stream": "Today"
@@ -221,10 +221,10 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 947809,
+      "followers": 947612,
       "peak_viewers": 241646,
       "peak_viewers_date": "Jan 11, 2025",
-      "latest_stream": "7 days ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 15,
@@ -240,7 +240,7 @@
       "followers": 946180,
       "peak_viewers": 149766,
       "peak_viewers_date": "Sep 08, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 16,
@@ -256,7 +256,7 @@
       "followers": 931664,
       "peak_viewers": 86485,
       "peak_viewers_date": "Nov 17, 2024",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 17,
@@ -267,9 +267,9 @@
       "country": null,
       "country_code": null,
       "language": "RU",
-      "primary_game": "Slots &amp; Casino",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/slots--casino",
-      "followers": 922954,
+      "primary_game": "PUBG: Battlegrounds",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/pubg-battlegrounds",
+      "followers": 923398,
       "peak_viewers": 720592,
       "peak_viewers_date": "Mar 20, 2024",
       "latest_stream": "Today"
@@ -301,7 +301,7 @@
       "language": "AR",
       "primary_game": "EA Sports FC 26",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/ea-sports-fc-26",
-      "followers": 881876,
+      "followers": 882074,
       "peak_viewers": 601000,
       "peak_viewers_date": "Jan 10, 2025",
       "latest_stream": "Today"
@@ -315,9 +315,9 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "Chat Roulette",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/chat-roulette",
-      "followers": 812239,
+      "primary_game": "Bombanana",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/bombanana",
+      "followers": 812552,
       "peak_viewers": 108104,
       "peak_viewers_date": "Jun 20, 2025",
       "latest_stream": "Today"
