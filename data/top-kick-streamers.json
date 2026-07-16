@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-15T09:50:09.003724+00:00",
+  "scraped_at": "2026-07-16T09:56:30.726993+00:00",
   "source": "streamscharts.com",
   "channels": [
     {
@@ -13,7 +13,7 @@
       "language": "ES",
       "primary_game": "IRL",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 3998939,
+      "followers": 4003684,
       "peak_viewers": 4001560,
       "peak_viewers_date": "Oct 19, 2025",
       "latest_stream": "1 day ago"
@@ -32,7 +32,7 @@
       "followers": 2115841,
       "peak_viewers": 583694,
       "peak_viewers_date": "Aug 05, 2024",
-      "latest_stream": "2 days ago"
+      "latest_stream": "3 days ago"
     },
     {
       "rank": 3,
@@ -45,7 +45,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1973856,
+      "followers": 1984044,
       "peak_viewers": 334548,
       "peak_viewers_date": "May 31, 2026",
       "latest_stream": "Today"
@@ -61,7 +61,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1777282,
+      "followers": 1786814,
       "peak_viewers": 180889,
       "peak_viewers_date": "Feb 26, 2025",
       "latest_stream": "Today"
@@ -77,7 +77,7 @@
       "language": "AR",
       "primary_game": "Roblox",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/roblox",
-      "followers": 1711535,
+      "followers": 1714246,
       "peak_viewers": 690753,
       "peak_viewers_date": "Jun 02, 2024",
       "latest_stream": "Today"
@@ -91,12 +91,12 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Bodycam",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/bodycam",
-      "followers": 1702627,
+      "primary_game": "Special Events",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/special-events",
+      "followers": 1703020,
       "peak_viewers": 237707,
       "peak_viewers_date": "Jul 03, 2025",
-      "latest_stream": "2 days ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 7,
@@ -112,7 +112,7 @@
       "followers": 1581105,
       "peak_viewers": 248609,
       "peak_viewers_date": "Oct 18, 2024",
-      "latest_stream": "2 days ago"
+      "latest_stream": "3 days ago"
     },
     {
       "rank": 8,
@@ -128,7 +128,7 @@
       "followers": 1484708,
       "peak_viewers": 326305,
       "peak_viewers_date": "Nov 14, 2025",
-      "latest_stream": "2 days ago"
+      "latest_stream": "3 days ago"
     },
     {
       "rank": 9,
@@ -160,7 +160,7 @@
       "followers": 1331607,
       "peak_viewers": 1359663,
       "peak_viewers_date": "Aug 03, 2025",
-      "latest_stream": "5 days ago"
+      "latest_stream": "6 days ago"
     },
     {
       "rank": 11,
@@ -203,12 +203,12 @@
       "country": null,
       "country_code": null,
       "language": "EN",
-      "primary_game": "GeoGuessr",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/geoguessr",
-      "followers": 1090786,
+      "primary_game": "Just Chatting",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
+      "followers": 1091423,
       "peak_viewers": 169794,
       "peak_viewers_date": "Oct 30, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 14,
@@ -219,9 +219,9 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Grand Theft Auto V (GTA)",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
-      "followers": 953054,
+      "primary_game": "Just Chatting",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
+      "followers": 953727,
       "peak_viewers": 149766,
       "peak_viewers_date": "Sep 08, 2025",
       "latest_stream": "Today"
@@ -235,9 +235,9 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Just Chatting",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 947361,
+      "primary_game": "Emily Wants To Play",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/emily-wants-to-play",
+      "followers": 947224,
       "peak_viewers": 241646,
       "peak_viewers_date": "Jan 11, 2025",
       "latest_stream": "Today"
@@ -256,7 +256,7 @@
       "followers": 937805,
       "peak_viewers": 86485,
       "peak_viewers_date": "Nov 17, 2024",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 17,
@@ -269,7 +269,7 @@
       "language": "RU",
       "primary_game": "Slots &amp; Casino",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/slots--casino",
-      "followers": 925850,
+      "followers": 926135,
       "peak_viewers": 720592,
       "peak_viewers_date": "Mar 20, 2024",
       "latest_stream": "1 day ago"
@@ -285,7 +285,7 @@
       "language": "ES",
       "primary_game": "IRL",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 914572,
+      "followers": 915841,
       "peak_viewers": 110444,
       "peak_viewers_date": "Jul 21, 2025",
       "latest_stream": "Today"
@@ -299,9 +299,9 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "EA Sports FC 26",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/ea-sports-fc-26",
-      "followers": 884303,
+      "primary_game": "Chat Roulette",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/chat-roulette",
+      "followers": 884507,
       "peak_viewers": 601000,
       "peak_viewers_date": "Jan 10, 2025",
       "latest_stream": "Today"
@@ -315,9 +315,9 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "Grand Theft Auto V (GTA)",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
-      "followers": 815307,
+      "primary_game": "Among Us",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/among-us",
+      "followers": 815754,
       "peak_viewers": 108104,
       "peak_viewers_date": "Jun 20, 2025",
       "latest_stream": "Today"
