@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-27T11:09:29.112031+00:00",
+  "scraped_at": "2026-07-28T10:23:24.162884+00:00",
   "source": "streamscharts.com",
   "channels": [
     {
@@ -13,10 +13,10 @@
       "language": "ES",
       "primary_game": "IRL",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 4012409,
+      "followers": 4015033,
       "peak_viewers": 4001560,
       "peak_viewers_date": "Oct 19, 2025",
-      "latest_stream": "2 days ago"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 2,
@@ -32,7 +32,7 @@
       "followers": 2117328,
       "peak_viewers": 583694,
       "peak_viewers_date": "Aug 05, 2024",
-      "latest_stream": "2 days ago"
+      "latest_stream": "3 days ago"
     },
     {
       "rank": 3,
@@ -45,7 +45,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 2018163,
+      "followers": 2022993,
       "peak_viewers": 334548,
       "peak_viewers_date": "May 31, 2026",
       "latest_stream": "Today"
@@ -80,7 +80,7 @@
       "followers": 1736562,
       "peak_viewers": 690753,
       "peak_viewers_date": "Jun 02, 2024",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 6,
@@ -91,9 +91,9 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Just Chatting",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1705585,
+      "primary_game": "Call of Duty: Black Ops II",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/call-of-duty-black-ops-ii",
+      "followers": 1705618,
       "peak_viewers": 237707,
       "peak_viewers_date": "Jul 03, 2025",
       "latest_stream": "Today"
@@ -112,7 +112,7 @@
       "followers": 1592088,
       "peak_viewers": 248609,
       "peak_viewers_date": "Oct 18, 2024",
-      "latest_stream": "4 days ago"
+      "latest_stream": "5 days ago"
     },
     {
       "rank": 8,
@@ -144,7 +144,7 @@
       "followers": 1406525,
       "peak_viewers": 153588,
       "peak_viewers_date": "Jul 30, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 10,
@@ -160,7 +160,7 @@
       "followers": 1362192,
       "peak_viewers": 1359663,
       "peak_viewers_date": "Aug 03, 2025",
-      "latest_stream": "7 days ago"
+      "latest_stream": "19 Jul, 26"
     },
     {
       "rank": 11,
@@ -171,9 +171,9 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "PUBG Mobile",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/pubg-mobile",
-      "followers": 1139378,
+      "primary_game": "EA Sports FC 26",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/ea-sports-fc-26",
+      "followers": 1139795,
       "peak_viewers": 64708,
       "peak_viewers_date": "Dec 24, 2024",
       "latest_stream": "1 day ago"
@@ -189,10 +189,10 @@
       "language": "EN",
       "primary_game": "Battlefield 6",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/battlefield-6",
-      "followers": 1095142,
+      "followers": 1095945,
       "peak_viewers": 169794,
       "peak_viewers_date": "Oct 30, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 13,
@@ -224,7 +224,7 @@
       "followers": 960485,
       "peak_viewers": 149766,
       "peak_viewers_date": "Sep 08, 2025",
-      "latest_stream": "5 days ago"
+      "latest_stream": "6 days ago"
     },
     {
       "rank": 15,
@@ -235,12 +235,12 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Just Chatting",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 947062,
+      "primary_game": "An Eggstremely Hard Game",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/an-eggstremely-hard-game",
+      "followers": 949612,
       "peak_viewers": 86485,
       "peak_viewers_date": "Nov 17, 2024",
-      "latest_stream": "2 days ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 16,
@@ -256,7 +256,7 @@
       "followers": 946786,
       "peak_viewers": 241646,
       "peak_viewers_date": "Jan 11, 2025",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 17,
@@ -272,7 +272,7 @@
       "followers": 930633,
       "peak_viewers": 720592,
       "peak_viewers_date": "Mar 20, 2024",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 18,
@@ -288,7 +288,7 @@
       "followers": 922502,
       "peak_viewers": 110444,
       "peak_viewers_date": "Jul 21, 2025",
-      "latest_stream": "2 days ago"
+      "latest_stream": "3 days ago"
     },
     {
       "rank": 19,
@@ -299,9 +299,9 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "Grand Theft Auto V (GTA)",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
-      "followers": 886840,
+      "primary_game": "Just Chatting",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
+      "followers": 887069,
       "peak_viewers": 601000,
       "peak_viewers_date": "Jan 10, 2025",
       "latest_stream": "Today"
@@ -317,7 +317,7 @@
       "language": "AR",
       "primary_game": "Chat Roulette",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/chat-roulette",
-      "followers": 821262,
+      "followers": 821965,
       "peak_viewers": 108104,
       "peak_viewers_date": "Jun 20, 2025",
       "latest_stream": "Today"
