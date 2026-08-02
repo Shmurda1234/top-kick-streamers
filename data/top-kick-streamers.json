@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-01T09:49:04.941751+00:00",
+  "scraped_at": "2026-08-02T09:47:57.758522+00:00",
   "source": "streamscharts.com",
   "channels": [
     {
@@ -11,9 +11,9 @@
       "country": "Colombia",
       "country_code": "CO",
       "language": "ES",
-      "primary_game": "EA Sports FC 26",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/ea-sports-fc-26",
-      "followers": 4020643,
+      "primary_game": "IRL",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
+      "followers": 4022869,
       "peak_viewers": 4001560,
       "peak_viewers_date": "Oct 19, 2025",
       "latest_stream": "Today"
@@ -48,7 +48,7 @@
       "followers": 2030076,
       "peak_viewers": 334548,
       "peak_viewers_date": "May 31, 2026",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 4,
@@ -61,7 +61,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1831694,
+      "followers": 1832702,
       "peak_viewers": 182605,
       "peak_viewers_date": "Jul 19, 2026",
       "latest_stream": "Today"
@@ -77,10 +77,10 @@
       "language": "AR",
       "primary_game": "Grand Theft Auto V (GTA)",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
-      "followers": 1750898,
+      "followers": 1753854,
       "peak_viewers": 690753,
       "peak_viewers_date": "Jun 02, 2024",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 6,
@@ -96,7 +96,7 @@
       "followers": 1705955,
       "peak_viewers": 237707,
       "peak_viewers_date": "Jul 03, 2025",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 7,
@@ -125,7 +125,7 @@
       "language": "AR",
       "primary_game": "Kings League",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/kings-league",
-      "followers": 1507205,
+      "followers": 1508865,
       "peak_viewers": 326305,
       "peak_viewers_date": "Nov 14, 2025",
       "latest_stream": "1 day ago"
@@ -141,10 +141,10 @@
       "language": "TR",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1411715,
+      "followers": 1416519,
       "peak_viewers": 153588,
       "peak_viewers_date": "Jul 30, 2025",
-      "latest_stream": "2 days ago"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 10,
@@ -176,7 +176,7 @@
       "followers": 1140651,
       "peak_viewers": 64708,
       "peak_viewers_date": "Dec 24, 2024",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 12,
@@ -187,9 +187,9 @@
       "country": null,
       "country_code": null,
       "language": "EN",
-      "primary_game": "Counter-Strike 2",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/counter-strike-2",
-      "followers": 1097088,
+      "primary_game": "Dark and Darker",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/dark-and-darker",
+      "followers": 1097450,
       "peak_viewers": 169794,
       "peak_viewers_date": "Oct 30, 2025",
       "latest_stream": "Today"
@@ -221,7 +221,7 @@
       "language": "ES",
       "primary_game": "Grand Theft Auto V (GTA)",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
-      "followers": 968360,
+      "followers": 969371,
       "peak_viewers": 149766,
       "peak_viewers_date": "Sep 08, 2025",
       "latest_stream": "Today"
@@ -240,7 +240,7 @@
       "followers": 953616,
       "peak_viewers": 86485,
       "peak_viewers_date": "Nov 17, 2024",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 16,
@@ -256,7 +256,7 @@
       "followers": 946786,
       "peak_viewers": 241646,
       "peak_viewers_date": "Jan 11, 2025",
-      "latest_stream": "5 days ago"
+      "latest_stream": "6 days ago"
     },
     {
       "rank": 17,
@@ -269,7 +269,7 @@
       "language": "RU",
       "primary_game": "Slots &amp; Casino",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/slots--casino",
-      "followers": 933775,
+      "followers": 934539,
       "peak_viewers": 720592,
       "peak_viewers_date": "Mar 20, 2024",
       "latest_stream": "Today"
@@ -304,7 +304,7 @@
       "followers": 887893,
       "peak_viewers": 601000,
       "peak_viewers_date": "Jan 10, 2025",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 20,
@@ -317,7 +317,7 @@
       "language": "AR",
       "primary_game": "Black Myth: Wukong",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/black-myth-wukong",
-      "followers": 825108,
+      "followers": 825729,
       "peak_viewers": 108104,
       "peak_viewers_date": "Jun 20, 2025",
       "latest_stream": "Today"
