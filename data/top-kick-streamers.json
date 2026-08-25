@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-24T08:35:53.043194+00:00",
+  "scraped_at": "2026-08-25T08:29:48.157693+00:00",
   "source": "streamscharts.com",
   "channels": [
     {
@@ -11,9 +11,9 @@
       "country": "Colombia",
       "country_code": "CO",
       "language": "ES",
-      "primary_game": "Among Us",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/among-us",
-      "followers": 4069226,
+      "primary_game": "Just Chatting",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
+      "followers": 4071319,
       "peak_viewers": 4001560,
       "peak_viewers_date": "Oct 19, 2025",
       "latest_stream": "Today"
@@ -32,7 +32,7 @@
       "followers": 2166679,
       "peak_viewers": 583694,
       "peak_viewers_date": "Aug 05, 2024",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 3,
@@ -45,7 +45,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 2077548,
+      "followers": 2079602,
       "peak_viewers": 334548,
       "peak_viewers_date": "May 31, 2026",
       "latest_stream": "Today"
@@ -64,7 +64,7 @@
       "followers": 1870625,
       "peak_viewers": 182605,
       "peak_viewers_date": "Jul 19, 2026",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 5,
@@ -96,7 +96,7 @@
       "followers": 1708505,
       "peak_viewers": 237707,
       "peak_viewers_date": "Jul 03, 2025",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 7,
@@ -107,9 +107,9 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "How to Fish",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/how-to-fish",
-      "followers": 1616860,
+      "primary_game": "Counter-Strike 2",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/counter-strike-2",
+      "followers": 1617680,
       "peak_viewers": 248609,
       "peak_viewers_date": "Oct 18, 2024",
       "latest_stream": "Today"
@@ -128,7 +128,7 @@
       "followers": 1530070,
       "peak_viewers": 326305,
       "peak_viewers_date": "Nov 14, 2025",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 9,
@@ -144,7 +144,7 @@
       "followers": 1446479,
       "peak_viewers": 153588,
       "peak_viewers_date": "Jul 30, 2025",
-      "latest_stream": "2 days ago"
+      "latest_stream": "3 days ago"
     },
     {
       "rank": 10,
@@ -160,7 +160,7 @@
       "followers": 1420001,
       "peak_viewers": 1359663,
       "peak_viewers_date": "Aug 03, 2025",
-      "latest_stream": "3 days ago"
+      "latest_stream": "4 days ago"
     },
     {
       "rank": 11,
@@ -171,9 +171,9 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "EA Sports FC 26",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/ea-sports-fc-26",
-      "followers": 1147653,
+      "primary_game": "PUBG Mobile",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/pubg-mobile",
+      "followers": 1148196,
       "peak_viewers": 64708,
       "peak_viewers_date": "Dec 24, 2024",
       "latest_stream": "1 day ago"
@@ -187,12 +187,12 @@
       "country": null,
       "country_code": null,
       "language": "EN",
-      "primary_game": "League of Legends",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/league-of-legends",
-      "followers": 1101985,
+      "primary_game": "Codenames",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/codenames",
+      "followers": 1102410,
       "peak_viewers": 169794,
       "peak_viewers_date": "Oct 30, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 13,
@@ -219,9 +219,9 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Among Us",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/among-us",
-      "followers": 989666,
+      "primary_game": "IRL",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
+      "followers": 999247,
       "peak_viewers": 317750,
       "peak_viewers_date": "Aug 24, 2026",
       "latest_stream": "Today"
@@ -240,7 +240,7 @@
       "followers": 988695,
       "peak_viewers": 149766,
       "peak_viewers_date": "Sep 08, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 16,
@@ -256,7 +256,7 @@
       "followers": 968741,
       "peak_viewers": 86485,
       "peak_viewers_date": "Nov 17, 2024",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 17,
@@ -267,12 +267,12 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Detroit: Become Human",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/detroit-become-human",
-      "followers": 946065,
+      "primary_game": "Beyond: Two Souls",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/beyond-two-souls",
+      "followers": 945962,
       "peak_viewers": 241646,
       "peak_viewers_date": "Jan 11, 2025",
-      "latest_stream": "2 days ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 18,
@@ -285,7 +285,7 @@
       "language": "RU",
       "primary_game": "Slots &amp; Casino",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/slots--casino",
-      "followers": 943793,
+      "followers": 944213,
       "peak_viewers": 720592,
       "peak_viewers_date": "Mar 20, 2024",
       "latest_stream": "07 Aug, 26"
@@ -299,9 +299,9 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "Fortnite",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/fortnite",
-      "followers": 892118,
+      "primary_game": "Grand Theft Auto V (GTA)",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
+      "followers": 892291,
       "peak_viewers": 601000,
       "peak_viewers_date": "Jan 10, 2025",
       "latest_stream": "Today"
@@ -317,7 +317,7 @@
       "language": "AR",
       "primary_game": "Garena Free Fire",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/garena-free-fire",
-      "followers": 834074,
+      "followers": 835654,
       "peak_viewers": 27651,
       "peak_viewers_date": "Sep 17, 2025",
       "latest_stream": "1 day ago"
