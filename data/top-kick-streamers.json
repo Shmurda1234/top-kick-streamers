@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-29T13:28:15.913022+00:00",
+  "scraped_at": "2026-08-30T13:24:28.950260+00:00",
   "source": "streamscharts.com",
   "channels": [
     {
@@ -16,7 +16,7 @@
       "followers": 4075317,
       "peak_viewers": 4001560,
       "peak_viewers_date": "Oct 19, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 2,
@@ -32,7 +32,7 @@
       "followers": 2171120,
       "peak_viewers": 583694,
       "peak_viewers_date": "Aug 05, 2024",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 3,
@@ -45,10 +45,10 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 2089188,
+      "followers": 2092266,
       "peak_viewers": 334548,
       "peak_viewers_date": "May 31, 2026",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 4,
@@ -64,7 +64,7 @@
       "followers": 1879405,
       "peak_viewers": 182605,
       "peak_viewers_date": "Jul 19, 2026",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 5,
@@ -96,7 +96,7 @@
       "followers": 1708609,
       "peak_viewers": 237707,
       "peak_viewers_date": "Jul 03, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 7,
@@ -107,9 +107,9 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Live DJ",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/live-dj",
-      "followers": 1620744,
+      "primary_game": "EA Sports FC 26",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/ea-sports-fc-26",
+      "followers": 1622671,
       "peak_viewers": 248609,
       "peak_viewers_date": "Oct 18, 2024",
       "latest_stream": "Today"
@@ -128,7 +128,7 @@
       "followers": 1530070,
       "peak_viewers": 326305,
       "peak_viewers_date": "Nov 14, 2025",
-      "latest_stream": "5 days ago"
+      "latest_stream": "6 days ago"
     },
     {
       "rank": 9,
@@ -139,9 +139,9 @@
       "country": null,
       "country_code": null,
       "language": "TR",
-      "primary_game": "Grand Theft Auto VI (GTA)",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-vi-gta",
-      "followers": 1452389,
+      "primary_game": "Just Chatting",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
+      "followers": 1455105,
       "peak_viewers": 153588,
       "peak_viewers_date": "Jul 30, 2025",
       "latest_stream": "1 day ago"
@@ -171,9 +171,9 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "EA Sports FC 26",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/ea-sports-fc-26",
-      "followers": 1150173,
+      "primary_game": "PUBG Mobile",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/pubg-mobile",
+      "followers": 1150510,
       "peak_viewers": 64708,
       "peak_viewers_date": "Dec 24, 2024",
       "latest_stream": "1 day ago"
@@ -192,7 +192,7 @@
       "followers": 1103397,
       "peak_viewers": 169794,
       "peak_viewers_date": "Oct 30, 2025",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 13,
@@ -224,7 +224,7 @@
       "followers": 1013532,
       "peak_viewers": 317750,
       "peak_viewers_date": "Aug 24, 2026",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 15,
@@ -240,7 +240,7 @@
       "followers": 993005,
       "peak_viewers": 149766,
       "peak_viewers_date": "Sep 08, 2025",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 16,
@@ -256,10 +256,26 @@
       "followers": 968741,
       "peak_viewers": 86485,
       "peak_viewers_date": "Nov 17, 2024",
-      "latest_stream": "5 days ago"
+      "latest_stream": "6 days ago"
     },
     {
       "rank": 17,
+      "name": "mellstroy987",
+      "slug": "mellstroy987",
+      "url": "https://kick.com/mellstroy987",
+      "avatar": "https://files.kick.com/images/user/389335/profile_image/conversion/2297b5ac-09cc-4d27-9687-0653d8d98230-thumb.webp",
+      "country": null,
+      "country_code": null,
+      "language": "RU",
+      "primary_game": "Slots &amp; Casino",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/slots--casino",
+      "followers": 946054,
+      "peak_viewers": 720592,
+      "peak_viewers_date": "Mar 20, 2024",
+      "latest_stream": "07 Aug, 26"
+    },
+    {
+      "rank": 18,
       "name": "mernuel",
       "slug": "mernuel",
       "url": "https://kick.com/mernuel",
@@ -275,22 +291,6 @@
       "latest_stream": "1 day ago"
     },
     {
-      "rank": 18,
-      "name": "mellstroy987",
-      "slug": "mellstroy987",
-      "url": "https://kick.com/mellstroy987",
-      "avatar": "https://files.kick.com/images/user/389335/profile_image/conversion/2297b5ac-09cc-4d27-9687-0653d8d98230-thumb.webp",
-      "country": null,
-      "country_code": null,
-      "language": "RU",
-      "primary_game": "Slots &amp; Casino",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/slots--casino",
-      "followers": 945626,
-      "peak_viewers": 720592,
-      "peak_viewers_date": "Mar 20, 2024",
-      "latest_stream": "07 Aug, 26"
-    },
-    {
       "rank": 19,
       "name": "ilyaselmaliki",
       "slug": "ilyaselmaliki",
@@ -304,7 +304,7 @@
       "followers": 892630,
       "peak_viewers": 601000,
       "peak_viewers_date": "Jan 10, 2025",
-      "latest_stream": "3 days ago"
+      "latest_stream": "4 days ago"
     },
     {
       "rank": 20,
@@ -315,9 +315,9 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "Garena Free Fire",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/garena-free-fire",
-      "followers": 840304,
+      "primary_game": "Grand Theft Auto V (GTA)",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
+      "followers": 841225,
       "peak_viewers": 27651,
       "peak_viewers_date": "Sep 17, 2025",
       "latest_stream": "Today"
