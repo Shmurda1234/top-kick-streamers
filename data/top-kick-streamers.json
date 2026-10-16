@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-15T12:56:27.238094+00:00",
+  "scraped_at": "2026-10-16T12:49:58.668774+00:00",
   "source": "streamscharts.com",
   "channels": [
     {
@@ -13,10 +13,10 @@
       "language": "ES",
       "primary_game": "IRL",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 4217004,
+      "followers": 4286538,
       "peak_viewers": 4001560,
       "peak_viewers_date": "Oct 19, 2025",
-      "latest_stream": "2 days ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 2,
@@ -27,9 +27,9 @@
       "country": "USA",
       "country_code": "US",
       "language": "EN",
-      "primary_game": "Just Chatting",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 2276870,
+      "primary_game": "Slots &amp; Casino",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/slots--casino",
+      "followers": 2339510,
       "peak_viewers": 583694,
       "peak_viewers_date": "Aug 05, 2024",
       "latest_stream": "Today"
@@ -45,7 +45,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 2224589,
+      "followers": 2250038,
       "peak_viewers": 334548,
       "peak_viewers_date": "May 31, 2026",
       "latest_stream": "Today"
@@ -64,7 +64,7 @@
       "followers": 2024065,
       "peak_viewers": 182605,
       "peak_viewers_date": "Jul 19, 2026",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 5,
@@ -84,6 +84,22 @@
     },
     {
       "rank": 6,
+      "name": "spreen",
+      "slug": "spreen",
+      "url": "https://kick.com/spreen",
+      "avatar": "https://files.kick.com/images/user/5403922/profile_image/conversion/187cd10e-0d94-4fb6-b867-4f78f668a41d-thumb.webp",
+      "country": null,
+      "country_code": null,
+      "language": "ES",
+      "primary_game": "IRL",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
+      "followers": 1824109,
+      "peak_viewers": 739198,
+      "peak_viewers_date": "Oct 04, 2026",
+      "latest_stream": "Today"
+    },
+    {
+      "rank": 7,
       "name": "elzeein",
       "slug": "elzeein",
       "url": "https://kick.com/elzeein",
@@ -99,22 +115,6 @@
       "latest_stream": "05 Oct, 26"
     },
     {
-      "rank": 7,
-      "name": "spreen",
-      "slug": "spreen",
-      "url": "https://kick.com/spreen",
-      "avatar": "https://files.kick.com/images/user/5403922/profile_image/conversion/187cd10e-0d94-4fb6-b867-4f78f668a41d-thumb.webp",
-      "country": null,
-      "country_code": null,
-      "language": "ES",
-      "primary_game": "Just Chatting",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1789485,
-      "peak_viewers": 739198,
-      "peak_viewers_date": "Oct 04, 2026",
-      "latest_stream": "Today"
-    },
-    {
       "rank": 8,
       "name": "mrstiventc",
       "slug": "mrstiventc",
@@ -125,7 +125,7 @@
       "language": "ES",
       "primary_game": "Garena Free Fire",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/garena-free-fire",
-      "followers": 1757212,
+      "followers": 1770892,
       "peak_viewers": 612169,
       "peak_viewers_date": "Sep 02, 2026",
       "latest_stream": "Today"
@@ -141,7 +141,7 @@
       "language": "AR",
       "primary_game": "Detroit: Become Human",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/detroit-become-human",
-      "followers": 1605179,
+      "followers": 1629274,
       "peak_viewers": 326305,
       "peak_viewers_date": "Nov 14, 2025",
       "latest_stream": "1 day ago"
@@ -160,26 +160,10 @@
       "followers": 1534501,
       "peak_viewers": 153588,
       "peak_viewers_date": "Jul 30, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 11,
-      "name": "atro",
-      "slug": "atro",
-      "url": "https://kick.com/atro",
-      "avatar": "https://files.kick.com/images/user/2395233/profile_image/conversion/3a2ed43b-c57f-4bdc-b7cc-c410d4369d70-thumb.webp",
-      "country": null,
-      "country_code": null,
-      "language": "AR",
-      "primary_game": "PUBG Mobile",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/pubg-mobile",
-      "followers": 1196234,
-      "peak_viewers": 64708,
-      "peak_viewers_date": "Dec 24, 2024",
-      "latest_stream": "Today"
-    },
-    {
-      "rank": 12,
       "name": "xqc",
       "slug": "xqc",
       "url": "https://kick.com/xqc",
@@ -189,9 +173,25 @@
       "language": "EN",
       "primary_game": "Grand Theft Auto V (GTA)",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
-      "followers": 1186169,
+      "followers": 1217801,
       "peak_viewers": 169794,
       "peak_viewers_date": "Oct 30, 2025",
+      "latest_stream": "Today"
+    },
+    {
+      "rank": 12,
+      "name": "atro",
+      "slug": "atro",
+      "url": "https://kick.com/atro",
+      "avatar": "https://files.kick.com/images/user/2395233/profile_image/conversion/3a2ed43b-c57f-4bdc-b7cc-c410d4369d70-thumb.webp",
+      "country": null,
+      "country_code": null,
+      "language": "AR",
+      "primary_game": "PUBG Mobile",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/pubg-mobile",
+      "followers": 1206094,
+      "peak_viewers": 64708,
+      "peak_viewers_date": "Dec 24, 2024",
       "latest_stream": "Today"
     },
     {
@@ -203,9 +203,9 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Chat Roulette",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/chat-roulette",
-      "followers": 1142238,
+      "primary_game": "Fortnite",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/fortnite",
+      "followers": 1156813,
       "peak_viewers": 317750,
       "peak_viewers_date": "Aug 24, 2026",
       "latest_stream": "Today"
@@ -235,9 +235,9 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Just Chatting",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1043095,
+      "primary_game": "Grand Theft Auto V (GTA)",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
+      "followers": 1054401,
       "peak_viewers": 149766,
       "peak_viewers_date": "Sep 08, 2025",
       "latest_stream": "Today"
@@ -253,7 +253,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1020534,
+      "followers": 1030864,
       "peak_viewers": 86485,
       "peak_viewers_date": "Nov 17, 2024",
       "latest_stream": "Today"
@@ -267,9 +267,9 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Just Chatting",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 959050,
+      "primary_game": "Grand Theft Auto V (GTA)",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
+      "followers": 964976,
       "peak_viewers": 241646,
       "peak_viewers_date": "Jan 11, 2025",
       "latest_stream": "Today"
@@ -299,27 +299,27 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "Battlefield REDSEC",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/battlefield-redsec",
-      "followers": 943270,
+      "primary_game": "EA Sports FC 27",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/ea-sports-fc-27",
+      "followers": 952794,
       "peak_viewers": 601000,
       "peak_viewers_date": "Jan 10, 2025",
       "latest_stream": "Today"
     },
     {
       "rank": 20,
-      "name": "adrianozendejas32",
-      "slug": "adrianozendejas32",
-      "url": "https://kick.com/adrianozendejas32",
-      "avatar": "https://files.kick.com/images/user/53715418/profile_image/conversion/b837377b-c0aa-44e7-9e27-ff70ad91223a-thumb.webp",
+      "name": "absi",
+      "slug": "absi",
+      "url": "https://kick.com/absi",
+      "avatar": "https://files.kick.com/images/user/27894320/profile_image/conversion/951102c4-68da-415c-a344-d6dbaec3fb05-thumb.webp",
       "country": null,
       "country_code": null,
-      "language": "ES",
-      "primary_game": "IRL",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 922146,
-      "peak_viewers": 128110,
-      "peak_viewers_date": "Aug 27, 2026",
+      "language": "AR",
+      "primary_game": "Counter-Strike 2",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/counter-strike-2",
+      "followers": 933744,
+      "peak_viewers": 179834,
+      "peak_viewers_date": "Oct 09, 2026",
       "latest_stream": "Today"
     }
   ]
