@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-21T13:18:40.291225+00:00",
+  "scraped_at": "2026-10-22T13:22:57.493086+00:00",
   "source": "streamscharts.com",
   "channels": [
     {
@@ -11,12 +11,12 @@
       "country": "Colombia",
       "country_code": "CO",
       "language": "ES",
-      "primary_game": "IRL",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 4405189,
+      "primary_game": "Just Chatting",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
+      "followers": 4434897,
       "peak_viewers": 4001560,
       "peak_viewers_date": "Oct 19, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 2,
@@ -29,10 +29,10 @@
       "language": "EN",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 2634848,
+      "followers": 2669992,
       "peak_viewers": 1429783,
       "peak_viewers_date": "Oct 17, 2026",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 3,
@@ -45,7 +45,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 2338080,
+      "followers": 2355604,
       "peak_viewers": 334548,
       "peak_viewers_date": "May 31, 2026",
       "latest_stream": "Today"
@@ -61,7 +61,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 2158336,
+      "followers": 2180327,
       "peak_viewers": 182605,
       "peak_viewers_date": "Jul 19, 2026",
       "latest_stream": "Today"
@@ -77,10 +77,10 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1871513,
+      "followers": 1884087,
       "peak_viewers": 1359663,
       "peak_viewers_date": "Aug 03, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 6,
@@ -96,7 +96,7 @@
       "followers": 1866199,
       "peak_viewers": 739198,
       "peak_viewers_date": "Oct 04, 2026",
-      "latest_stream": "3 days ago"
+      "latest_stream": "4 days ago"
     },
     {
       "rank": 7,
@@ -123,9 +123,9 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Garena Free Fire",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/garena-free-fire",
-      "followers": 1807883,
+      "primary_game": "IRL",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
+      "followers": 1814379,
       "peak_viewers": 612169,
       "peak_viewers_date": "Sep 02, 2026",
       "latest_stream": "Today"
@@ -144,7 +144,7 @@
       "followers": 1679227,
       "peak_viewers": 326305,
       "peak_viewers_date": "Nov 14, 2025",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 10,
@@ -160,7 +160,7 @@
       "followers": 1575813,
       "peak_viewers": 153588,
       "peak_viewers_date": "Jul 30, 2025",
-      "latest_stream": "2 days ago"
+      "latest_stream": "3 days ago"
     },
     {
       "rank": 11,
@@ -173,10 +173,10 @@
       "language": "EN",
       "primary_game": "Grand Theft Auto V (GTA)",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
-      "followers": 1286397,
+      "followers": 1308690,
       "peak_viewers": 169794,
       "peak_viewers_date": "Oct 30, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 12,
@@ -187,9 +187,9 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "PUBG Mobile",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/pubg-mobile",
-      "followers": 1273804,
+      "primary_game": "Black Myth: Wukong",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/black-myth-wukong",
+      "followers": 1287232,
       "peak_viewers": 64708,
       "peak_viewers_date": "Dec 24, 2024",
       "latest_stream": "Today"
@@ -208,10 +208,26 @@
       "followers": 1224637,
       "peak_viewers": 317750,
       "peak_viewers_date": "Aug 24, 2026",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 14,
+      "name": "rdjavi",
+      "slug": "rdjavi",
+      "url": "https://kick.com/rdjavi",
+      "avatar": "https://files.kick.com/images/user/1088246/profile_image/conversion/8514886d-e739-4ae1-8a2c-5d668b07e1d5-thumb.webp",
+      "country": null,
+      "country_code": null,
+      "language": "ES",
+      "primary_game": "Just Chatting",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
+      "followers": 1097923,
+      "peak_viewers": 149766,
+      "peak_viewers_date": "Sep 08, 2025",
+      "latest_stream": "Today"
+    },
+    {
+      "rank": 15,
       "name": "elraenn",
       "slug": "elraenn",
       "url": "https://kick.com/elraenn",
@@ -227,22 +243,6 @@
       "latest_stream": "19 May, 26"
     },
     {
-      "rank": 15,
-      "name": "rdjavi",
-      "slug": "rdjavi",
-      "url": "https://kick.com/rdjavi",
-      "avatar": "https://files.kick.com/images/user/1088246/profile_image/conversion/8514886d-e739-4ae1-8a2c-5d668b07e1d5-thumb.webp",
-      "country": null,
-      "country_code": null,
-      "language": "ES",
-      "primary_game": "Fart Together",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/fart-together",
-      "followers": 1089297,
-      "peak_viewers": 149766,
-      "peak_viewers_date": "Sep 08, 2025",
-      "latest_stream": "Today"
-    },
-    {
       "rank": 16,
       "name": "robleis",
       "slug": "robleis",
@@ -256,26 +256,10 @@
       "followers": 1058373,
       "peak_viewers": 86485,
       "peak_viewers_date": "Nov 17, 2024",
-      "latest_stream": "2 days ago"
+      "latest_stream": "3 days ago"
     },
     {
       "rank": 17,
-      "name": "absi",
-      "slug": "absi",
-      "url": "https://kick.com/absi",
-      "avatar": "https://files.kick.com/images/user/27894320/profile_image/conversion/951102c4-68da-415c-a344-d6dbaec3fb05-thumb.webp",
-      "country": null,
-      "country_code": null,
-      "language": "AR",
-      "primary_game": "EA Sports FC 26",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/ea-sports-fc-26",
-      "followers": 1005682,
-      "peak_viewers": 179834,
-      "peak_viewers_date": "Oct 09, 2026",
-      "latest_stream": "Today"
-    },
-    {
-      "rank": 18,
       "name": "abodby",
       "slug": "abodby",
       "url": "https://kick.com/abodby",
@@ -283,15 +267,47 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "Garena Free Fire",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/garena-free-fire",
-      "followers": 1003974,
+      "primary_game": "Devour",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/devour",
+      "followers": 1020438,
       "peak_viewers": 27651,
       "peak_viewers_date": "Sep 17, 2025",
       "latest_stream": "Today"
     },
     {
+      "rank": 18,
+      "name": "absi",
+      "slug": "absi",
+      "url": "https://kick.com/absi",
+      "avatar": "https://files.kick.com/images/user/27894320/profile_image/conversion/951102c4-68da-415c-a344-d6dbaec3fb05-thumb.webp",
+      "country": null,
+      "country_code": null,
+      "language": "AR",
+      "primary_game": "Just Chatting",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
+      "followers": 1014575,
+      "peak_viewers": 179834,
+      "peak_viewers_date": "Oct 09, 2026",
+      "latest_stream": "Today"
+    },
+    {
       "rank": 19,
+      "name": "ilyaselmaliki",
+      "slug": "ilyaselmaliki",
+      "url": "https://kick.com/ilyaselmaliki",
+      "avatar": "https://files.kick.com/images/user/15881436/profile_image/conversion/92e4422d-0448-4324-b37d-2f451d2454ba-thumb.webp",
+      "country": null,
+      "country_code": null,
+      "language": "AR",
+      "primary_game": "Battlefield 1",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/battlefield-1",
+      "followers": 988716,
+      "peak_viewers": 601000,
+      "peak_viewers_date": "Jan 10, 2025",
+      "latest_stream": "Today"
+    },
+    {
+      "rank": 20,
       "name": "mernuel",
       "slug": "mernuel",
       "url": "https://kick.com/mernuel",
@@ -304,23 +320,7 @@
       "followers": 985925,
       "peak_viewers": 241646,
       "peak_viewers_date": "Jan 11, 2025",
-      "latest_stream": "Today"
-    },
-    {
-      "rank": 20,
-      "name": "ilyaselmaliki",
-      "slug": "ilyaselmaliki",
-      "url": "https://kick.com/ilyaselmaliki",
-      "avatar": "https://files.kick.com/images/user/15881436/profile_image/conversion/92e4422d-0448-4324-b37d-2f451d2454ba-thumb.webp",
-      "country": null,
-      "country_code": null,
-      "language": "AR",
-      "primary_game": "Battlefield 1",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/battlefield-1",
-      "followers": 983365,
-      "peak_viewers": 601000,
-      "peak_viewers_date": "Jan 10, 2025",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     }
   ]
 }
