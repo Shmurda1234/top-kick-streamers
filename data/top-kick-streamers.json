@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-31T12:03:14.225086+00:00",
+  "scraped_at": "2026-10-31T14:00:21.474237+00:00",
   "source": "streamscharts.com",
   "channels": [
     {
@@ -29,10 +29,10 @@
       "language": "EN",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 2799201,
+      "followers": 2817146,
       "peak_viewers": 1429783,
       "peak_viewers_date": "Oct 17, 2026",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 3,
@@ -61,7 +61,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 2386985,
+      "followers": 2388226,
       "peak_viewers": 182605,
       "peak_viewers_date": "Jul 19, 2026",
       "latest_stream": "Today"
@@ -173,7 +173,7 @@
       "language": "EN",
       "primary_game": "Grand Theft Auto V (GTA)",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
-      "followers": 1446827,
+      "followers": 1450915,
       "peak_viewers": 169794,
       "peak_viewers_date": "Oct 30, 2025",
       "latest_stream": "Today"
@@ -221,7 +221,7 @@
       "language": "AR",
       "primary_game": "Garena Free Fire",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/garena-free-fire",
-      "followers": 1214795,
+      "followers": 1219402,
       "peak_viewers": 27651,
       "peak_viewers_date": "Sep 17, 2025",
       "latest_stream": "Today"
@@ -244,6 +244,22 @@
     },
     {
       "rank": 16,
+      "name": "absi",
+      "slug": "absi",
+      "url": "https://kick.com/absi",
+      "avatar": "https://files.kick.com/images/user/27894320/profile_image/conversion/951102c4-68da-415c-a344-d6dbaec3fb05-thumb.webp",
+      "country": null,
+      "country_code": null,
+      "language": "AR",
+      "primary_game": "EA Sports FC 27",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/ea-sports-fc-27",
+      "followers": 1132205,
+      "peak_viewers": 179834,
+      "peak_viewers_date": "Oct 09, 2026",
+      "latest_stream": "Today"
+    },
+    {
+      "rank": 17,
       "name": "robleis",
       "slug": "robleis",
       "url": "https://kick.com/robleis",
@@ -257,22 +273,6 @@
       "peak_viewers": 86485,
       "peak_viewers_date": "Nov 17, 2024",
       "latest_stream": "Today"
-    },
-    {
-      "rank": 17,
-      "name": "absi",
-      "slug": "absi",
-      "url": "https://kick.com/absi",
-      "avatar": "https://files.kick.com/images/user/27894320/profile_image/conversion/951102c4-68da-415c-a344-d6dbaec3fb05-thumb.webp",
-      "country": null,
-      "country_code": null,
-      "language": "AR",
-      "primary_game": "EA Sports FC 26",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/ea-sports-fc-26",
-      "followers": 1116716,
-      "peak_viewers": 179834,
-      "peak_viewers_date": "Oct 09, 2026",
-      "latest_stream": "1 day ago"
     },
     {
       "rank": 18,
@@ -317,7 +317,7 @@
       "language": "ES",
       "primary_game": "IRL",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 1042121,
+      "followers": 1043159,
       "peak_viewers": 141941,
       "peak_viewers_date": "Oct 23, 2026",
       "latest_stream": "Today"
