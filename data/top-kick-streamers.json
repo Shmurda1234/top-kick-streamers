@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-01T14:36:38.525260+00:00",
+  "scraped_at": "2026-11-02T17:32:27.746757+00:00",
   "source": "streamscharts.com",
   "channels": [
     {
@@ -16,7 +16,7 @@
       "followers": 4501168,
       "peak_viewers": 4001560,
       "peak_viewers_date": "Oct 19, 2025",
-      "latest_stream": "6 days ago"
+      "latest_stream": "7 days ago"
     },
     {
       "rank": 2,
@@ -32,7 +32,7 @@
       "followers": 2832863,
       "peak_viewers": 1429783,
       "peak_viewers_date": "Oct 17, 2026",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 3,
@@ -45,7 +45,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 2515605,
+      "followers": 2532089,
       "peak_viewers": 334548,
       "peak_viewers_date": "May 31, 2026",
       "latest_stream": "Today"
@@ -61,13 +61,29 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 2388226,
+      "followers": 2426785,
       "peak_viewers": 182605,
       "peak_viewers_date": "Jul 19, 2026",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 5,
+      "name": "sxb",
+      "slug": "sxb",
+      "url": "https://kick.com/sxb",
+      "avatar": "https://files.kick.com/images/user/18838562/profile_image/conversion/8a124c9d-761a-4e7e-93ed-03cccaa11c02-thumb.webp",
+      "country": null,
+      "country_code": null,
+      "language": "AR",
+      "primary_game": "Call of Duty: Modern Warfare 4",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/call-of-duty-modern-warfare-4",
+      "followers": 2070465,
+      "peak_viewers": 690753,
+      "peak_viewers_date": "Jun 02, 2024",
+      "latest_stream": "Today"
+    },
+    {
+      "rank": 6,
       "name": "elzeein",
       "slug": "elzeein",
       "url": "https://kick.com/elzeein",
@@ -80,23 +96,7 @@
       "followers": 1994494,
       "peak_viewers": 1359663,
       "peak_viewers_date": "Aug 03, 2025",
-      "latest_stream": "1 day ago"
-    },
-    {
-      "rank": 6,
-      "name": "sxb",
-      "slug": "sxb",
-      "url": "https://kick.com/sxb",
-      "avatar": "https://files.kick.com/images/user/18838562/profile_image/conversion/8a124c9d-761a-4e7e-93ed-03cccaa11c02-thumb.webp",
-      "country": null,
-      "country_code": null,
-      "language": "AR",
-      "primary_game": "Double Dealers",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/double-dealers",
-      "followers": 1988753,
-      "peak_viewers": 690753,
-      "peak_viewers_date": "Jun 02, 2024",
-      "latest_stream": "3 days ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 7,
@@ -112,7 +112,7 @@
       "followers": 1980304,
       "peak_viewers": 739198,
       "peak_viewers_date": "Oct 04, 2026",
-      "latest_stream": "3 days ago"
+      "latest_stream": "4 days ago"
     },
     {
       "rank": 8,
@@ -123,12 +123,12 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Garena Free Fire",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/garena-free-fire",
-      "followers": 1885537,
+      "primary_game": "Fortnite",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/fortnite",
+      "followers": 1898885,
       "peak_viewers": 612169,
       "peak_viewers_date": "Sep 02, 2026",
-      "latest_stream": "2 days ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 9,
@@ -144,7 +144,7 @@
       "followers": 1772801,
       "peak_viewers": 326305,
       "peak_viewers_date": "Nov 14, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 10,
@@ -155,12 +155,12 @@
       "country": null,
       "country_code": null,
       "language": "TR",
-      "primary_game": "Grand Theft Auto V (GTA)",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
-      "followers": 1685528,
+      "primary_game": "Just Chatting",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
+      "followers": 1696553,
       "peak_viewers": 153588,
       "peak_viewers_date": "Jul 30, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 11,
@@ -176,7 +176,7 @@
       "followers": 1465537,
       "peak_viewers": 169794,
       "peak_viewers_date": "Oct 30, 2025",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 12,
@@ -189,13 +189,29 @@
       "language": "AR",
       "primary_game": "Phantom Blade Zero",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/phantom-blade-zero",
-      "followers": 1373889,
+      "followers": 1374680,
       "peak_viewers": 64708,
       "peak_viewers_date": "Dec 24, 2024",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 13,
+      "name": "abodby",
+      "slug": "abodby",
+      "url": "https://kick.com/abodby",
+      "avatar": "https://files.kick.com/images/user/16567613/profile_image/conversion/c8e451f3-2545-46c6-9489-3b619d5431c8-thumb.webp",
+      "country": null,
+      "country_code": null,
+      "language": "AR",
+      "primary_game": "Garena Free Fire",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/garena-free-fire",
+      "followers": 1257542,
+      "peak_viewers": 27651,
+      "peak_viewers_date": "Sep 17, 2025",
+      "latest_stream": "Today"
+    },
+    {
+      "rank": 14,
       "name": "lonche",
       "slug": "lonche",
       "url": "https://kick.com/lonche",
@@ -211,22 +227,6 @@
       "latest_stream": "23 Oct, 26"
     },
     {
-      "rank": 14,
-      "name": "abodby",
-      "slug": "abodby",
-      "url": "https://kick.com/abodby",
-      "avatar": "https://files.kick.com/images/user/16567613/profile_image/conversion/c8e451f3-2545-46c6-9489-3b619d5431c8-thumb.webp",
-      "country": null,
-      "country_code": null,
-      "language": "AR",
-      "primary_game": "Garena Free Fire",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/garena-free-fire",
-      "followers": 1235347,
-      "peak_viewers": 27651,
-      "peak_viewers_date": "Sep 17, 2025",
-      "latest_stream": "Today"
-    },
-    {
       "rank": 15,
       "name": "rdjavi",
       "slug": "rdjavi",
@@ -240,7 +240,7 @@
       "followers": 1173236,
       "peak_viewers": 149766,
       "peak_viewers_date": "Sep 08, 2025",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 16,
@@ -253,7 +253,7 @@
       "language": "AR",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 1141936,
+      "followers": 1154008,
       "peak_viewers": 179834,
       "peak_viewers_date": "Oct 09, 2026",
       "latest_stream": "Today"
@@ -272,7 +272,7 @@
       "followers": 1122822,
       "peak_viewers": 86485,
       "peak_viewers_date": "Nov 17, 2024",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 18,
@@ -301,7 +301,7 @@
       "language": "EN",
       "primary_game": "IRL",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 1072421,
+      "followers": 1083473,
       "peak_viewers": 153406,
       "peak_viewers_date": "Jan 18, 2024",
       "latest_stream": "Today"
@@ -317,7 +317,7 @@
       "language": "ES",
       "primary_game": "IRL",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 1051636,
+      "followers": 1056632,
       "peak_viewers": 141941,
       "peak_viewers_date": "Oct 23, 2026",
       "latest_stream": "Today"
