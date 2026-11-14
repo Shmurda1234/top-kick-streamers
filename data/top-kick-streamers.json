@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-13T15:46:29.094514+00:00",
+  "scraped_at": "2026-11-14T14:37:31.377052+00:00",
   "source": "streamscharts.com",
   "channels": [
     {
@@ -11,12 +11,12 @@
       "country": "Colombia",
       "country_code": "CO",
       "language": "ES",
-      "primary_game": "Cuphead",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/cuphead",
-      "followers": 4759912,
+      "primary_game": "Special Events",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/special-events",
+      "followers": 4817083,
       "peak_viewers": 4001560,
       "peak_viewers_date": "Oct 19, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 2,
@@ -29,7 +29,7 @@
       "language": "EN",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 3022095,
+      "followers": 3046929,
       "peak_viewers": 1429783,
       "peak_viewers_date": "Oct 17, 2026",
       "latest_stream": "Today"
@@ -48,7 +48,7 @@
       "followers": 2689081,
       "peak_viewers": 334548,
       "peak_viewers_date": "May 31, 2026",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 4,
@@ -61,7 +61,7 @@
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 2618445,
+      "followers": 2647244,
       "peak_viewers": 182605,
       "peak_viewers_date": "Jul 19, 2026",
       "latest_stream": "Today"
@@ -75,9 +75,9 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "IRL",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 2463468,
+      "primary_game": "Grand Theft Auto V (GTA)",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
+      "followers": 2516827,
       "peak_viewers": 690753,
       "peak_viewers_date": "Jun 02, 2024",
       "latest_stream": "Today"
@@ -96,7 +96,7 @@
       "followers": 2112459,
       "peak_viewers": 739198,
       "peak_viewers_date": "Oct 04, 2026",
-      "latest_stream": "2 days ago"
+      "latest_stream": "3 days ago"
     },
     {
       "rank": 7,
@@ -112,7 +112,7 @@
       "followers": 2104816,
       "peak_viewers": 1359663,
       "peak_viewers_date": "Aug 03, 2025",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 8,
@@ -128,7 +128,7 @@
       "followers": 1969484,
       "peak_viewers": 612169,
       "peak_viewers_date": "Sep 02, 2026",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 9,
@@ -144,7 +144,7 @@
       "followers": 1855894,
       "peak_viewers": 326305,
       "peak_viewers_date": "Nov 14, 2025",
-      "latest_stream": "2 days ago"
+      "latest_stream": "3 days ago"
     },
     {
       "rank": 10,
@@ -171,31 +171,15 @@
       "country": null,
       "country_code": null,
       "language": "EN",
-      "primary_game": "Grand Theft Auto V (GTA)",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
-      "followers": 1564921,
+      "primary_game": "The Legend of Zelda: Ocarina of Time",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/the-legend-of-zelda-ocarina-of-time",
+      "followers": 1608527,
       "peak_viewers": 169794,
       "peak_viewers_date": "Oct 30, 2025",
-      "latest_stream": "1 day ago"
+      "latest_stream": "Today"
     },
     {
       "rank": 12,
-      "name": "atro",
-      "slug": "atro",
-      "url": "https://kick.com/atro",
-      "avatar": "https://files.kick.com/images/user/2395233/profile_image/conversion/3a2ed43b-c57f-4bdc-b7cc-c410d4369d70-thumb.webp",
-      "country": null,
-      "country_code": null,
-      "language": "AR",
-      "primary_game": "Horizon Forbidden West",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/horizon-forbidden-west",
-      "followers": 1473125,
-      "peak_viewers": 64708,
-      "peak_viewers_date": "Dec 24, 2024",
-      "latest_stream": "1 day ago"
-    },
-    {
-      "rank": 13,
       "name": "abodby",
       "slug": "abodby",
       "url": "https://kick.com/abodby",
@@ -205,9 +189,25 @@
       "language": "AR",
       "primary_game": "Garena Free Fire",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/garena-free-fire",
-      "followers": 1457402,
+      "followers": 1489560,
       "peak_viewers": 27651,
       "peak_viewers_date": "Sep 17, 2025",
+      "latest_stream": "Today"
+    },
+    {
+      "rank": 13,
+      "name": "atro",
+      "slug": "atro",
+      "url": "https://kick.com/atro",
+      "avatar": "https://files.kick.com/images/user/2395233/profile_image/conversion/3a2ed43b-c57f-4bdc-b7cc-c410d4369d70-thumb.webp",
+      "country": null,
+      "country_code": null,
+      "language": "AR",
+      "primary_game": "PUBG Mobile",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/pubg-mobile",
+      "followers": 1488538,
+      "peak_viewers": 64708,
+      "peak_viewers_date": "Dec 24, 2024",
       "latest_stream": "Today"
     },
     {
@@ -224,7 +224,7 @@
       "followers": 1355652,
       "peak_viewers": 317750,
       "peak_viewers_date": "Aug 24, 2026",
-      "latest_stream": "4 days ago"
+      "latest_stream": "5 days ago"
     },
     {
       "rank": 15,
@@ -235,9 +235,9 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "Counter-Strike 2",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/counter-strike-2",
-      "followers": 1270748,
+      "primary_game": "Call of Duty",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/call-of-duty",
+      "followers": 1284910,
       "peak_viewers": 179834,
       "peak_viewers_date": "Oct 09, 2026",
       "latest_stream": "Today"
@@ -253,7 +253,7 @@
       "language": "ES",
       "primary_game": "Grand Theft Auto V (GTA)",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
-      "followers": 1248880,
+      "followers": 1259921,
       "peak_viewers": 149766,
       "peak_viewers_date": "Sep 08, 2025",
       "latest_stream": "Today"
@@ -269,7 +269,7 @@
       "language": "EN",
       "primary_game": "IRL",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 1203791,
+      "followers": 1220994,
       "peak_viewers": 153406,
       "peak_viewers_date": "Jan 18, 2024",
       "latest_stream": "Today"
@@ -283,9 +283,9 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "Counter-Strike 2",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/counter-strike-2",
-      "followers": 1152861,
+      "primary_game": "Call of Duty: Modern Warfare 4",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/call-of-duty-modern-warfare-4",
+      "followers": 1179821,
       "peak_viewers": 212915,
       "peak_viewers_date": "May 23, 2025",
       "latest_stream": "Today"
@@ -317,7 +317,7 @@
       "language": "ES",
       "primary_game": "IRL",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 1109551,
+      "followers": 1116806,
       "peak_viewers": 141941,
       "peak_viewers_date": "Oct 23, 2026",
       "latest_stream": "Today"
