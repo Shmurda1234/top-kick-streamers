@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-21T15:45:33.956856+00:00",
+  "scraped_at": "2026-11-22T15:46:16.594459+00:00",
   "source": "streamscharts.com",
   "channels": [
     {
@@ -13,7 +13,7 @@
       "language": "ES",
       "primary_game": "IRL",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 5383367,
+      "followers": 5452076,
       "peak_viewers": 4001560,
       "peak_viewers_date": "Oct 19, 2025",
       "latest_stream": "Today"
@@ -29,42 +29,42 @@
       "language": "EN",
       "primary_game": "Grand Theft Auto VI (GTA)",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-vi-gta",
-      "followers": 3292599,
+      "followers": 3295211,
       "peak_viewers": 1429783,
       "peak_viewers_date": "Oct 17, 2026",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 3,
+      "name": "sxb",
+      "slug": "sxb",
+      "url": "https://kick.com/sxb",
+      "avatar": "https://files.kick.com/images/user/18838562/profile_image/conversion/8a124c9d-761a-4e7e-93ed-03cccaa11c02-thumb.webp",
+      "country": "Saudi Arabia",
+      "country_code": "SA",
+      "language": "AR",
+      "primary_game": "Grand Theft Auto V (GTA)",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
+      "followers": 2999384,
+      "peak_viewers": 690753,
+      "peak_viewers_date": "Jun 02, 2024",
+      "latest_stream": "Today"
+    },
+    {
+      "rank": 4,
       "name": "lacobraaa",
       "slug": "lacobraaa",
       "url": "https://kick.com/lacobraaa",
       "avatar": "https://files.kick.com/images/user/31424479/profile_image/conversion/9e6489f8-4629-4aa3-8034-d8cb428a6516-thumb.webp",
-      "country": "Argentina",
-      "country_code": "AR",
+      "country": null,
+      "country_code": null,
       "language": "ES",
       "primary_game": "Just Chatting",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
       "followers": 2987666,
       "peak_viewers": 646919,
       "peak_viewers_date": "Nov 15, 2026",
-      "latest_stream": "1 day ago"
-    },
-    {
-      "rank": 4,
-      "name": "sxb",
-      "slug": "sxb",
-      "url": "https://kick.com/sxb",
-      "avatar": "https://files.kick.com/images/user/18838562/profile_image/conversion/8a124c9d-761a-4e7e-93ed-03cccaa11c02-thumb.webp",
-      "country": null,
-      "country_code": null,
-      "language": "AR",
-      "primary_game": "Grand Theft Auto V (GTA)",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-v-gta",
-      "followers": 2953577,
-      "peak_viewers": 690753,
-      "peak_viewers_date": "Jun 02, 2024",
-      "latest_stream": "Today"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 5,
@@ -80,7 +80,7 @@
       "followers": 2947079,
       "peak_viewers": 334548,
       "peak_viewers_date": "May 31, 2026",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 6,
@@ -96,7 +96,7 @@
       "followers": 2376594,
       "peak_viewers": 739198,
       "peak_viewers_date": "Oct 04, 2026",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 7,
@@ -107,9 +107,9 @@
       "country": null,
       "country_code": null,
       "language": "ES",
-      "primary_game": "Just Chatting",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
-      "followers": 2202445,
+      "primary_game": "Grand Theft Auto VI (GTA)",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-vi-gta",
+      "followers": 2221823,
       "peak_viewers": 1359663,
       "peak_viewers_date": "Aug 03, 2025",
       "latest_stream": "Today"
@@ -125,7 +125,7 @@
       "language": "ES",
       "primary_game": "Grand Theft Auto VI (GTA)",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-vi-gta",
-      "followers": 2073435,
+      "followers": 2082848,
       "peak_viewers": 612169,
       "peak_viewers_date": "Sep 02, 2026",
       "latest_stream": "Today"
@@ -141,7 +141,7 @@
       "language": "TR",
       "primary_game": "Grand Theft Auto VI (GTA)",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-vi-gta",
-      "followers": 2034585,
+      "followers": 2058834,
       "peak_viewers": 273899,
       "peak_viewers_date": "Nov 18, 2026",
       "latest_stream": "Today"
@@ -160,7 +160,7 @@
       "followers": 1963856,
       "peak_viewers": 326305,
       "peak_viewers_date": "Nov 14, 2025",
-      "latest_stream": "Today"
+      "latest_stream": "1 day ago"
     },
     {
       "rank": 11,
@@ -171,9 +171,9 @@
       "country": null,
       "country_code": null,
       "language": "EN",
-      "primary_game": "Grand Theft Auto VI (GTA)",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-vi-gta",
-      "followers": 1820882,
+      "primary_game": "Just Chatting",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/just-chatting",
+      "followers": 1835645,
       "peak_viewers": 169794,
       "peak_viewers_date": "Oct 30, 2025",
       "latest_stream": "Today"
@@ -189,7 +189,7 @@
       "language": "AR",
       "primary_game": "Garena Free Fire",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/garena-free-fire",
-      "followers": 1768266,
+      "followers": 1792371,
       "peak_viewers": 27651,
       "peak_viewers_date": "Sep 17, 2025",
       "latest_stream": "Today"
@@ -208,7 +208,7 @@
       "followers": 1593399,
       "peak_viewers": 64708,
       "peak_viewers_date": "Dec 24, 2024",
-      "latest_stream": "1 day ago"
+      "latest_stream": "2 days ago"
     },
     {
       "rank": 14,
@@ -221,7 +221,7 @@
       "language": "ES",
       "primary_game": "IRL",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
-      "followers": 1538996,
+      "followers": 1561823,
       "peak_viewers": 376600,
       "peak_viewers_date": "Nov 17, 2026",
       "latest_stream": "Today"
@@ -237,7 +237,7 @@
       "language": "ES",
       "primary_game": "Grand Theft Auto VI (GTA)",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-vi-gta",
-      "followers": 1438486,
+      "followers": 1457427,
       "peak_viewers": 149766,
       "peak_viewers_date": "Sep 08, 2025",
       "latest_stream": "Today"
@@ -251,9 +251,9 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "Call of Duty: Modern Warfare 4",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/call-of-duty-modern-warfare-4",
-      "followers": 1398100,
+      "primary_game": "Chat Roulette",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/chat-roulette",
+      "followers": 1412125,
       "peak_viewers": 179834,
       "peak_viewers_date": "Oct 09, 2026",
       "latest_stream": "Today"
@@ -267,9 +267,9 @@
       "country": null,
       "country_code": null,
       "language": "AR",
-      "primary_game": "Grand Theft Auto VI (GTA)",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-vi-gta",
-      "followers": 1368979,
+      "primary_game": "Counter-Strike 2",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/counter-strike-2",
+      "followers": 1390188,
       "peak_viewers": 212915,
       "peak_viewers_date": "May 23, 2025",
       "latest_stream": "Today"
@@ -283,9 +283,9 @@
       "country": null,
       "country_code": null,
       "language": "EN",
-      "primary_game": "Slots &amp; Casino",
-      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/slots--casino",
-      "followers": 1359447,
+      "primary_game": "IRL",
+      "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/irl",
+      "followers": 1370719,
       "peak_viewers": 153406,
       "peak_viewers_date": "Jan 18, 2024",
       "latest_stream": "Today"
@@ -301,7 +301,7 @@
       "language": "PT",
       "primary_game": "Grand Theft Auto VI (GTA)",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/grand-theft-auto-vi-gta",
-      "followers": 1316959,
+      "followers": 1344523,
       "peak_viewers": 198904,
       "peak_viewers_date": "Jul 10, 2026",
       "latest_stream": "Today"
@@ -317,7 +317,7 @@
       "language": "ES",
       "primary_game": "Fortnite",
       "primary_game_icon": "https://cdnr.escharts.com/games/78/slug/fortnite",
-      "followers": 1276629,
+      "followers": 1285822,
       "peak_viewers": 86485,
       "peak_viewers_date": "Nov 17, 2024",
       "latest_stream": "Today"
